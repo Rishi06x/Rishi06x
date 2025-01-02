@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and college st
 
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
 - Portfolio: [Your Portfolio](https://your-portfolio-link.com)  
-- Twitter: [Your Twitter](https://twitter.com/your-profile)  
 
 ---
 
