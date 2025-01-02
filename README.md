@@ -31,8 +31,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and college st
 
 ## 📫 Let's Connect
 
-- LinkedIn: [LinkedIn]([https://linkedin.com/in/Rishi.R](https://www.linkedin.com/in/rishi-r1206/))  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rishi-r1206/)  
 
 ---
 
-⭐️ From [(https://github.com/Rishi06x)]
