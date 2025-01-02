@@ -1,8 +1,8 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm [Rishi]!
 
 Welcome to my GitHub profile! I'm a passionate frontend developer and college student, exploring the world of web development and technology.
 
-![Profile Views](https://komarev.com/ghpvc/?username=username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?Rishi06x&color=brightgreen)
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and college st
 ## 🛠️ Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** Tailwind CSS, React  
+- **Frameworks:** Tailwind CSS 
 - **Tools:**  Git, GitHub, VS Code  
 
 ---
