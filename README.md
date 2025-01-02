@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate frontend developer and college student, exploring the world of web development and technology.
 
-![Profile Views](https://komarev.com/ghpvc/?Rishi06x&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Rishi06x&color=brightgreen)
 
 ---
 
@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and college st
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishi06x&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi06x&layout=compact&theme=radical)
 
 ---
 
