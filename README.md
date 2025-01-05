@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and college st
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Project Name](https://github.com/username/project-name)
+- 🔭 I’m currently working on [Project Name](https://github.com/Rishi06x/CoffeeShop-page)
 - 🌱 I’m learning **JavaScript and React**  
 - 🎯 Aspiring to become a **MERN Stack Developer**  
 
