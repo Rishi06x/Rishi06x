@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Rishi]!
+# Hi there 👋, I'm Rishi!
 
 Welcome to my GitHub profile! I'm a passionate frontend developer and college student, exploring the world of web development and technology.
 
