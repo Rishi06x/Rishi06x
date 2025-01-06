@@ -24,8 +24,21 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and college st
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishi06x&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi06x&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishi06x&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=Rishi06x&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishi06x&theme=radical)](https://git.io/streak-stats)
+
+## 📌 Pinned Repositories
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Rishi06x&repo=REPO_NAME&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
+
+## 📈 Activity Graph
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rishi06x&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rishi06x&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
