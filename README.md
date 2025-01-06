@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and college st
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=Rishi06x&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishi06x&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rishi06x)](https://git.io/streak-stats)
 
 ## 📌 Pinned Repositories
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Rishi06x&repo=CoffeeShop-Page&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
