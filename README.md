@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and college st
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishi06x&theme=radical)](https://git.io/streak-stats)
 
 ## 📌 Pinned Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Rishi06x&repo=REPO_NAME&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Rishi06x&repo=CoffeeShop-Page&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
 
 ## 📈 Activity Graph
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rishi06x&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
