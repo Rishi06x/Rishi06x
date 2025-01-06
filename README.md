@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer and college st
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Rishi06x&repo=CoffeeShop-Page&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
 
 ## 📈 Activity Graph
-[![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rishi06x&theme=github-compact&bg_color=ffffff&color=000000&line=blue&point=black&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi06x&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rishi06x&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
