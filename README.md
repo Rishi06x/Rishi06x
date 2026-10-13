@@ -82,8 +82,7 @@ A responsive portfolio showcasing my projects, skills, and contact details.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishi06x&theme=radical" height="160" alt="Stats" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi06x&theme=react-dark)
----
+![GitHub Contributions](https://ghchart.rshah.org/1f6feb/Rishi06x)
 
 ## 📫 Let's Connect
 
