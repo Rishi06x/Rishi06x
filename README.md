@@ -63,10 +63,28 @@ A responsive portfolio showcasing my projects, skills, and contact details.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishi06x&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishi06x&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi06x&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi06x&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishi06x&theme=radical" height="160" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishi06x&theme=radical" height="160" alt="Repos per language" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishi06x&theme=radical" height="160" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishi06x&theme=radical" height="160" alt="Stats" />
+</p>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishi06x&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
